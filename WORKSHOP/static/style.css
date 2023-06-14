@@ -1,0 +1,36 @@
+body {
+    background-color: #002395; /* Blue */
+    color: #FFFFFF; /* White */
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ED2939; /* Red */
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button[type="submit"] {
+    background-color: #ffffff; /* Yellow */
+    color: #000000; /* Black */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
